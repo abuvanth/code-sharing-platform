@@ -231,7 +231,7 @@ function ConnectWalletText() {
           Connect wallet{" "}
         </span>{" "}
         to get started <br />
-        or explore existing kitties
+        or share your codes
       </p>
     </div>
   );
