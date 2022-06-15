@@ -295,7 +295,7 @@ export const PactContextProvider = ({ children }) => {
       <span
         onClick={() =>
           window.open(
-            `https://explorer.chainweb.com/mainnet/txdetail/${requestKey}`,
+            `https://explorer.chainweb.com/testnet/tx/${requestKey}`,
             "_blank"
           )
         }
